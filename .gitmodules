@@ -1,0 +1,6 @@
+[submodule "vue-component"]
+	path = vue-component
+	url = https://github.com/ElizabethCF01/vue-component.git
+[submodule "react-component"]
+	path = react-component
+	url = https://github.com/ElizabethCF01/react-component.git
